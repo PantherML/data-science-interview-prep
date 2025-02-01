@@ -1,4 +1,4 @@
-# Data-Science-Interview-Questions-Answers
+# Data Science Interview Questions & Answers
 
 The main goal of this intuitive is to revise the basics of data science, be prepared for your next interview, and know what are the expected questions in a data science interview. For better access, the questions and answers are gathered here in this GitHub repository and in these [medium articles](https://youssefraafat57.medium.com/list/data-science-interview-questions-6789a80bdb14). They will be updated with new questions daily.
 
